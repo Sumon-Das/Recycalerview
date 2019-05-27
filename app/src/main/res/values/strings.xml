@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">RecycalerView</string>
+    <string-array name="country_name">
+        <item>Bangladesh</item>
+        <item>Brazil</item>
+        <item>Pakistha</item>
+        <item>Singapur</item>
+        <item>spain</item>
+        <item>turkey</item>
+        <item>Bangladesh</item>
+        <item>Brazil</item>
+        <item>Pakistha</item>
+        <item>Singapur</item>
+        <item>spain</item>
+        <item>turkey</item>
+
+
+    </string-array>
+    <string-array name="country_detail">
+        <item>Bangladesh is beutifull</item>
+        <item>Brazil is beutifull</item>
+
+        <item>Pakistha is beutifull</item>
+        <item>Singapur is beutifull</item>
+        <item>spain is beutifull</item>
+        <item>turkey is beutifull</item>
+        <item>Bangladesh is beutifull</item>
+        <item>Brazil is beutifull</item>
+
+        <item>Pakistha is beutifull</item>
+        <item>Singapur is beutifull</item>
+        <item>spain is beutifull</item>
+        <item>turkey is beutifull</item>
+
+    </string-array>
+</resources>
